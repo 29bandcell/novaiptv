@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wplaynovaiptvia.netlify.app/sitemap.xml
